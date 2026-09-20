@@ -6,5 +6,6 @@ void main() {
   print("Final Amount: $TotalAmount");
   int PayableAmount = TotalAmount ~/ 4;
   print("Payable Amount: $PayableAmount");
+  print("Thank You");
   print("end");
 }
