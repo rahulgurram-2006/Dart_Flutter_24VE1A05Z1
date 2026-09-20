@@ -10,4 +10,5 @@ void main() {
   print("Laptop Price: $subtotal");
   print("GST Amount: $GST_Amount");
   print("Final Amount: $Final_Amount");
+  print("TQ");
 }
