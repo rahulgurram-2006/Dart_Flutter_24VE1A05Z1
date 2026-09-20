@@ -10,4 +10,5 @@ void main() {
   print("Total Marks: $TotalMarks");
   print("Average Marks: $AverageMarks");
   print("Percentage: $Percentage%");
+  print($TotalMarks);
 }
